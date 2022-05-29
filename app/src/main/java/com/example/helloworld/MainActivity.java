@@ -33,4 +33,8 @@ public class MainActivity extends AppCompatActivity {
         int b = rg.nextInt(255)+1;
         tvText.setTextColor(Color.rgb(r,g,b));
     }
+
+    public void HelloFunction(){
+
+    }
 }
